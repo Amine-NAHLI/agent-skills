@@ -1,6 +1,6 @@
 # Agent Skills Index
 
-A curated collection of AI Agent Skills collected from the global ecosystem.
+A curated collection of AI Agent Skills collected from the global ecosystem.  
 
 ## Sources
 
@@ -28,14 +28,20 @@ A curated collection of AI Agent Skills collected from the global ecosystem.
 
 | Skill | Description | Path |
 |-------|-------------|------|
-| [vercel-react-best-practices](curated/development/react/vercel-react-best-practices/) | React and Next.js performance optimization guidelines from Vercel Engineering (70 rules, 8 categories) | `curated/development/react/vercel-react-best-practices/` |
+| [vercel-react-best-practices](curated/development/react/vercel-react-best-practices/) | React and Next.js performance optimization guidelines from VercelEngineering (70 rules, 8 categories) | `curated/development/react/vercel-react-best-practices/` |
 | [frontend-design](curated/development/frontend/frontend-design/) | Distinctive, intentional frontend UI design — typography, layout, motion, anti-template aesthetics | `curated/development/frontend/frontend-design/` |
+| [async-python-patterns](curated/development/python/async-python-patterns/) | Asynchronous Python patterns for high-performance applications, APIs, and automation workflows | `curated/development/python/async-python-patterns/` |
+| [python-design-patterns](curated/development/python/python-design-patterns/) | Python software design patterns for scalable and maintainable architectures | `curated/development/python/python-design-patterns/` |
+| [python-packaging](curated/development/python/python-packaging/) | Professional Python packaging, distribution, and project management practices | `curated/development/python/python-packaging/` |
+| [python-performance-optimization](curated/development/python/python-performance-optimization/) | Python performance analysis, optimization techniques, and production improvements | `curated/development/python/python-performance-optimization/` |
+| [python-project-structure](curated/development/python/python-project-structure/) | Professional Python project organization and maintainable application structures | `curated/development/python/python-project-structure/` |
 
 ### Testing
 
 | Skill | Description | Path |
 |-------|-------------|------|
 | [webapp-testing](curated/testing/webapp-testing/) | Test local web apps with Python Playwright — server lifecycle, UI verification, screenshots, logs | `curated/testing/webapp-testing/` |
+| [python-testing-patterns](curated/testing/python/python-testing-patterns/) | Python testing strategies, patterns, and best practices for reliable applications | `curated/testing/python/python-testing-patterns/` |
 
 ### Documentation
 
